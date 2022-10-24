@@ -6,3 +6,4 @@ Fruits Template From nivepage Built With HTML, CSS and JS
 ### Grid
 ## Icons: All icons were picked from font awesome.com
 #### Fell Free guys to use my solution if you want to learn from
+## Fonts: The font used here was picked from google fonts
